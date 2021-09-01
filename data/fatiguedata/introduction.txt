@@ -1,0 +1,7 @@
+No.代表序号
+NT	THT	THQCr	CT	DT	Dt	QmT	TT	TCr代表工艺参数
+C	Si	Mn	P	S	Ni	Cr	Cu	Mo	Fatigue代表成分参数
+Fatigue代表疲劳值
+
+
+
